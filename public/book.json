@@ -1,0 +1,39 @@
+
+[{
+    "id":1, "name":"Joy Bangla", "price": 200, "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpOw3Kq2aDe-q61Aw5XTTct2mBTxoG1tj9Q&usqp=CAU"
+},
+{
+    "id":2, "name":"River of my blood", "price": 250, "img":"https://blogsmedia.lse.ac.uk/blogs.dir/35/files/2019/03/81UXzkopM7L.jpg"
+},
+{
+    "id":3, "name":"Moyor rakki", "price": 300, "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVZwh2ui1ep3XD_JUok3J4kaXhwyVfK0g5g&usqp=CAU"
+},
+{
+    "id":4, "name":"A brief history of time", "price": 350, "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPzP5UXY3Z6PIwn49jNjWjGWv-_tG97pjzw&usqp=CAU"
+},
+{
+    "id":5, "name":"History of bangladesh", "price": 400, "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXFe12z7ai_hllGzPgWpsRnUiWUJ1CP9Jfg&usqp=CAU"
+},
+{
+    "id":6, "name":"Kopal kundola", "price": 450, "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuK9whv9S2Q1YxdIJGZvxStVcBDVi0_S4IQg&usqp=CAU"
+},
+{
+    "id":7, "name":"Java Script", "price": 500, "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5GZPmnuVyLdwrMHCs8GHnJg47hvkiWFgokQ&usqp=CAU"
+},
+{
+    "id":8, "name":"Pather pachali", "price": 550, "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQFoG0YzGeVjnT7-IOF69o6x9EhziKMRcvw&usqp=CAU"
+},
+{
+    "id":9, "name":"Top 10 lowyers in bangladesh", "price": 600, "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPDwy1ds_TyLssoN3K9H_14T-L_d2r-idIZA&usqp=CAU"
+},
+{
+    "id":10, "name":"Bangladesh affairs", "price": 650, "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmQhEXhvUDaOD5bJXxTU0M6jxRCfzedsJTw&usqp=CAU"
+},
+{
+    "id":11, "name":"Sunderbans", "price": 700, "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWKaNyUVfw9vZo0_Nr5-HM-MOiJIA41Q-3FA&usqp=CAU"
+},
+{
+    "id":12, "name":"Many rivers one sea", "price": 750, "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHn5hAzGJLC0kYTSHiCSIembhtbCG6shPXZw&usqp=CAU"
+}
+
+]
