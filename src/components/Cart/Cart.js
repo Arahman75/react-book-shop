@@ -9,6 +9,7 @@ const Cart = ({cart}) => {
         <div className='cart'>
             <h3>Order Summary</h3>
             <p>name: {}</p>
+            
         </div>
     );
 };
