@@ -3,3 +3,15 @@
     top: 0;
     padding: 20px 40px;
 }
+.cart h3{
+    text-align: center;
+}
+.btn2{
+    height: 40px;
+    width: 80%;
+    border: 2px solid rgb(13, 232, 57);
+    background-color:transparent;
+    font-weight: 700;
+    margin: 10px 0;
+   
+}

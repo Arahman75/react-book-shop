@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 
 const Book = (props) => {
-    const {img, name, price, id} = props.book;
+    const {img, name, price} = props.book;
     // console.log(props);
     return (
         <div className='book'>
@@ -14,7 +14,7 @@ const Book = (props) => {
            <h2>Name : {name}</h2>
            <h3>Price : ${price}</h3>
            </div>
-           <button onClick={() =>props.handleAddToCart(props.book)} className='cart-btn'><p>Add to Cart</p><FontAwesomeIcon className='shopping-cart' icon={faShoppingCart}></FontAwesomeIcon></button>
+           <button onClick={() => props.handleAddToCart(props.book)} className='cart-btn'><p>Add to Cart</p><FontAwesomeIcon className='shopping-cart' icon={faShoppingCart}></FontAwesomeIcon></button>
         </div>
     );
 };
