@@ -13,7 +13,6 @@
 .cart-container{
     background-color: darksalmon;
     border-radius: 10px;
-    margin: 0 30px 0 0;
     
    
 }
@@ -27,7 +26,5 @@
    .book-shop{
         display: grid;
         grid-template-columns: 1fr;
-        margin-left: 50px;
-        margin-bottom: 50px;
     }
 }
